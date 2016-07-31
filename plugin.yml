@@ -1,0 +1,5 @@
+name: Soundscapes
+version: 1.0
+main: com.arrayprolc.soundscapes.core.SoundscapesCore
+commands:
+    sc:
